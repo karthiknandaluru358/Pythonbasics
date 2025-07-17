@@ -3,7 +3,7 @@ is_raining=False
 if temp>35 or temp<0 or is_raining:
     print("the outdoor event is cancled.")
 else:
-    print("we can go outside")
+    print("we can go outside no issues")
 
 
 #ternary opeartor
